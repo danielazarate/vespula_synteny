@@ -1,5 +1,8 @@
 # Vespula pennsylvanica - WASP LINKAGE MAP BIOINFORMATIC PIPELINE
 
+# The complete bioinformatic pipline creating a genetic map for Vepsula pensylvanica.
+
+
 # Bioinformatics of linkage mapping of various wasp species 
 
 # In association with the publication "Comparative linkage mapping of wasp species"
